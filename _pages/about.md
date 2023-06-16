@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an MPhil student under the supervision of [Dr. Linchuan Xu](https://xulinchuan.github.io/) at Department of Computing, The Hong Kong Polytechnic University. Prior to that, I received my B.Eng. from Chongqing University of Posts and Telecommunications in 2020. 
+I am currently an MPhil student under the supervision of [Dr. Linchuan Xu](https://xulinchuan.github.io/) at Department of Computing, The Hong Kong Polytechnic University (HK PolyU). Prior to that, I received my B.Eng. degree from Chongqing University of Posts and Telecommunications (CQUPT) in 2020. 
 
 <!-- Experience
 ======
