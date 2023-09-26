@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <!-- I am currently an MPhil student under the supervision of [Dr. Linchuan Xu](https://xulinchuan.github.io/) at Department of Computing, The Hong Kong Polytechnic University (HK PolyU). Prior to that, I received my B.Eng. degree from Chongqing University of Posts and Telecommunications (CQUPT) in 2020.  -->
-I am currently a Research Assistant at School of Data Science, City University of Hong Kong (CityU), under the supervision of [Dr. Jizhou Li](http://lijz.io/). Prior to that, I received the BEng degree from Chongqing University of Posts and Telecommunications (CQUPT) in 2020, and the MPhil degree from Department of Computing of the Hong Kong Polytechnic University (PolyU), under the supervision of [Dr. Linchuan Xu](https://xulinchuan.github.io/) Xu in 2023. My research interests mainly focus on Image Restoration, Medical Image Analysis and Visual Recognition.
+I am currently a Research Assistant at School of Data Science, City University of Hong Kong (CityU), under the supervision of [Dr. Jizhou Li](http://lijz.io/). Prior to that, I received the BEng degree from Chongqing University of Posts and Telecommunications (CQUPT) in 2020, and the MPhil degree from Department of Computing of the Hong Kong Polytechnic University (PolyU), under the supervision of [Dr. Linchuan Xu](https://xulinchuan.github.io/) in 2023. My research interests mainly focus on Image Restoration, Medical Image Analysis and Visual Recognition.
 
 <!-- Experience
 ======
