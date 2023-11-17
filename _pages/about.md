@@ -21,14 +21,14 @@ I am currently a Research Assistant at School of Data Science, City University o
 Publications
 ======
 
-Preprints
-
-- Shuai Wang, <ins>Zipei Yan</ins><sup>2</sup>, Daoan Zhang, Zhongsen Li, Sirui Wu, Wenxuan Chen, Rui Li, "Towards Generalizable Medical Image Segmentation with Pixel-wise Uncertainty Estimation", *arXiv*, 2023.
-- Shuai Wang, Daoan Zhang, <ins>Zipei Yan</ins><sup>3</sup>, Shitong Shao, Rui Li, "Black-box Source-free Domain Adaptation via Two-stage Knowledge Distillation", *arXiv*, 2023.
-
 Conference proceedings
 
 - <ins>Zipei Yan</ins><sup>1</sup>, Dong Liang, Linchuan Xu, Jiahang Li, Zhengji Liu, Shuai Wang, Jiannong Cao, Chea-su Kee, "Vision Loss Estimation using Fundus Photograph for High Myopia", in *MICCAI*, 2023.
 - Shuai Wang, Daoan Zhang, <ins>Zipei Yan</ins><sup>3</sup>, Jianguo Zhang, Rui Li, "Feature Alignment and Uniformity for Test Time Adaptation", in *CVPR*, 2023.
 - Shuai Wang, <ins>Zipei Yan</ins><sup>2</sup>, Daoan Zhang, Haining Wei, Zhongsen Li, Rui Li, "Prototype Knowledge Distillation for Medical Segmentation with Missing Modality", in *ICASSP*, 2023.
 - <ins>Zipei Yan</ins><sup>1</sup>, Linchuan Xu, Atsushi Suzuki, Jing Wang, Jiannong Cao, Jun Huang, "RGB Color Model Aware Computational Color Naming and Its Application to Data Augmentation", in *IEEE BigData*, 2022.
+
+Preprints
+
+- Shuai Wang, <ins>Zipei Yan</ins><sup>2</sup>, Daoan Zhang, Zhongsen Li, Sirui Wu, Wenxuan Chen, Rui Li, "Towards Generalizable Medical Image Segmentation with Pixel-wise Uncertainty Estimation", *arXiv*, 2023.
+- Shuai Wang, Daoan Zhang, <ins>Zipei Yan</ins><sup>3</sup>, Shitong Shao, Rui Li, "Black-box Source-free Domain Adaptation via Two-stage Knowledge Distillation", *arXiv*, 2023.
