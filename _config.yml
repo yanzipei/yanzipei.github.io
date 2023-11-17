@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Zipei Yan" # "Your Sidebar Name"
   avatar           : "profile.png"
-  bio              : "RA, CityU"
+  bio              : "Research Assistant, CityU"
   location         : "Hong Kong SAR, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com.hk/citations?user=JZvRMrcAAAAJ&hl=zh-CN" # "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=JZvRMrcAAAAJ" # "http://yourfullgooglescholarurl.com"
   email            : "130bc92@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
