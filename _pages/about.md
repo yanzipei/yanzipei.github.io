@@ -22,7 +22,6 @@ Publications
 ======
 
 Conference proceedings
-
 - <ins>Zipei Yan</ins><sup>1</sup>, Zhengji Liu, Jizhou Li, "Boosting of Implicit Neural Representation-based Image Denoiser", in *ICASSP*, 2024.
 - <ins>Zipei Yan</ins><sup>1</sup>, Dong Liang, Linchuan Xu, Jiahang Li, Zhengji Liu, Shuai Wang, Jiannong Cao, Chea-su Kee, "Vision Loss Estimation using Fundus Photograph for High Myopia", in *MICCAI*, 2023.
 - Shuai Wang, Daoan Zhang, <ins>Zipei Yan</ins><sup>3</sup>, Jianguo Zhang, Rui Li, "Feature Alignment and Uniformity for Test Time Adaptation", in *CVPR*, 2023.
