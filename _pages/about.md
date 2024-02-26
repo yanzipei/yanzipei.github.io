@@ -22,11 +22,12 @@ Publications
 ======
 
 Conference proceedings
+- Ivo John, <ins>Zipei Yan</ins><sup>2</sup>, Aleksander Bogucki, Michal Swiatek, Hugo Chrost, Michal Wlodarski, Radosław Chrapkiewicz, Jizhou Li, "Unsupervised Stabilization of Smartphone-based Quantitative Pupillometry for Mobile Emergency Medicine", in *ISBI*, 2024.
 - <ins>Zipei Yan</ins><sup>1</sup>, Zhengji Liu, Jizhou Li, "Boosting of Implicit Neural Representation-based Image Denoiser", in *ICASSP*, 2024.
 - <ins>Zipei Yan</ins><sup>1</sup>, Dong Liang, Linchuan Xu, Jiahang Li, Zhengji Liu, Shuai Wang, Jiannong Cao, Chea-su Kee, "Vision Loss Estimation using Fundus Photograph for High Myopia", in *MICCAI*, 2023.
 - Shuai Wang, Daoan Zhang, <ins>Zipei Yan</ins><sup>3</sup>, Jianguo Zhang, Rui Li, "Feature Alignment and Uniformity for Test Time Adaptation", in *CVPR*, 2023.
 - Shuai Wang, <ins>Zipei Yan</ins><sup>2</sup>, Daoan Zhang, Haining Wei, Zhongsen Li, Rui Li, "Prototype Knowledge Distillation for Medical Segmentation with Missing Modality", in *ICASSP*, 2023.
-- <ins>Zipei Yan</ins><sup>1</sup>, Linchuan Xu, Atsushi Suzuki, Jing Wang, Jiannong Cao, Jun Huang, "RGB Color Model Aware Computational Color Naming and Its Application to Data Augmentation", in *IEEE BigData*, 2022.
+- <ins>Zipei Yan</ins><sup>1</sup>, Linchuan Xu, Atsushi Suzuki, Jing Wang, Jiannong Cao, Jun Huang, "RGB Color Model Aware Computational Color Naming and Its Application to Data Augmentation", in *IEEE Big Data*, 2022.
 
 Preprints
 
