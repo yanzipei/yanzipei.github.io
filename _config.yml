@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zipei Yan" # "Your Sidebar Name"
   avatar           : "profile.png"
-  bio              : "Research Assistant, CityU"
+  bio              : "PhD Student, CUHK" # "Research Assistant, CityU"
   location         : "Hong Kong SAR, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
