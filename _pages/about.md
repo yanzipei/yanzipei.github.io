@@ -26,14 +26,20 @@ Publications
 ======
 
 Journal articles / letters
-- Ting Wang, <span style="text-decoration: underline;">Zipei Yan</span><sup>1,*</sup>, Jizhou Li, Xile Zhao, Chao Wang, Michael Ng, "Hyperspectral and Multispectral Image Fusion with Arbitrary Resolution Through Self-Supervised Representations", *International Journal of Computer Vision*, 2025.
+
+(<sup>\*</sup> indicates equal contributions)
+
+- Ting Wang, <ins>Zipei Yan</ins><sup>1,\*</sup>, Jizhou Li, Xile Zhao, Chao Wang, Michael K-P Ng, "Hyperspectral and Multispectral Image Fusion with Arbitrary Resolution Through Self-Supervised Representations", *International Journal of Computer Vision*, 2025.
 - <ins>Zipei Yan</ins><sup>1</sup>, Qiyu Wang, Xiqian Yu, Jizhou Li, Michael K-P Ng, "Compression of Battery X-Ray Tomography Data with Machine Learning", *Chinese Physics Letters*, 2024.
 
 Conference proceedings
+
+(<sup>\*</sup> indicates equal contributions)
+
 - <ins>Zipei Yan</ins><sup>1</sup>, Zhile Liang, Zhengji Liu, Shuai Wang, Rachel Chun, Jizhou Li, Chea-su Kee, Dong Liang, "Generalized Robust Fundus Photography-based Vision Loss Estimation for High Myopia", in *MICCAI*, 2024.
 - Ivo John, <ins>Zipei Yan</ins><sup>2</sup>, Aleksander Bogucki, Michal Swiatek, Hugo Chrost, Michal Wlodarski, Radosław Chrapkiewicz, Jizhou Li, "Unsupervised Stabilization of Smartphone-based Quantitative Pupillometry for Mobile Emergency Medicine", in *ISBI*, 2024.
 - <ins>Zipei Yan</ins><sup>1</sup>, Zhengji Liu, Jizhou Li, "Boosting of Implicit Neural Representation-based Image Denoiser", in *ICASSP*, 2024.
-- <ins>Zipei Yan</ins><sup>1</sup>, Dong Liang, Linchuan Xu, Jiahang Li, Zhengji Liu, Shuai Wang, Jiannong Cao, Chea-su Kee, "VF-HM: Vision Loss Estimation using Fundus Photograph for High Myopia", in *MICCAI*, 2023.
+- <ins>Zipei Yan</ins><sup>1</sup>, Dong Liang<sup>\*</sup>, Linchuan Xu, Jiahang Li, Zhengji Liu, Shuai Wang, Jiannong Cao, Chea-su Kee, "VF-HM: Vision Loss Estimation using Fundus Photograph for High Myopia", in *MICCAI*, 2023.
 - Shuai Wang, Daoan Zhang, <ins>Zipei Yan</ins><sup>3</sup>, Jianguo Zhang, Rui Li, "Feature Alignment and Uniformity for Test Time Adaptation", in *CVPR*, 2023.
 - Shuai Wang, <ins>Zipei Yan</ins><sup>2</sup>, Daoan Zhang, Haining Wei, Zhongsen Li, Rui Li, "Prototype Knowledge Distillation for Medical Segmentation with Missing Modality", in *ICASSP*, 2023. (Top 3% Recognition)
 - <ins>Zipei Yan</ins><sup>1</sup>, Linchuan Xu, Atsushi Suzuki, Jing Wang, Jiannong Cao, Jun Huang, "RGB Color Model Aware Computational Color Naming and Its Application to Data Augmentation", in *IEEE Big Data*, 2022.
