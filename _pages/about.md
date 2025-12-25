@@ -24,7 +24,7 @@ Publications
 ======
 
 Journal articles / letters
-- Ting Wang, <ins>Zipei Yan</ins><sup>1</sup><sup>,</sup><sup>*</sup>, Jizhou Li, Xile Zhao, Chao Wang, Michael Ng, "Hyperspectral and Multispectral Image Fusion with Arbitrary Resolution Through Self-Supervised Representations", *International Journal of Computer Vision*, 2025.
+- Ting Wang, <ins>Zipei Yan</ins><sup>1,*</sup>, Jizhou Li, Xile Zhao, Chao Wang, Michael Ng, "Hyperspectral and Multispectral Image Fusion with Arbitrary Resolution Through Self-Supervised Representations", *International Journal of Computer Vision*, 2025.
 - <ins>Zipei Yan</ins><sup>1</sup>, Qiyu Wang, Xiqian Yu, Jizhou Li, Michael K-P Ng, "Compression of Battery X-Ray Tomography Data with Machine Learning", *Chinese Physics Letters*, 2024.
 
 Conference proceedings
@@ -47,5 +47,5 @@ Services
 Conference Reviewer: MICCAI 2024, MICCAI 2025
 
 Teaching Assistant at CUHK: 
-- ENGG 2030 Signals and Systems (2024-25 Term 1)
+- ENGG 2030 Signals and Systems (2024-25 Term 1, 2025-26 Term 1)
 - ELEG 3710 Electronic Product Design and Development (2024-25 Term 2)
