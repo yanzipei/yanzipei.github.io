@@ -37,7 +37,7 @@ Conference proceedings
 - <ins>Zipei Yan</ins><sup>1</sup>, Linchuan Xu, Atsushi Suzuki, Jing Wang, Jiannong Cao, Jun Huang, "RGB Color Model Aware Computational Color Naming and Its Application to Data Augmentation", in *IEEE Big Data*, 2022.
 
 Preprints
-- Ting Wang, <ins>Zipei Yan</ins><sup>1</sup>, Jizhou Li, Xile Zhao, Chao Wang, Michael Ng, "Hyperspectral and Multispectral Image Fusion with Arbitrary Resolution through Self-supervised Representations", *arXiv*, 2024.
+<!-- - Ting Wang, <ins>Zipei Yan</ins><sup>1</sup>, Jizhou Li, Xile Zhao, Chao Wang, Michael Ng, "Hyperspectral and Multispectral Image Fusion with Arbitrary Resolution through Self-supervised Representations", *arXiv*, 2024. -->
 - Shuai Wang, <ins>Zipei Yan</ins><sup>2</sup>, Daoan Zhang, Zhongsen Li, Sirui Wu, Wenxuan Chen, Rui Li, "Towards Generalizable Medical Image Segmentation with Pixel-wise Uncertainty Estimation", *arXiv*, 2023.
 - Shuai Wang, Daoan Zhang, <ins>Zipei Yan</ins><sup>3</sup>, Shitong Shao, Rui Li, "Black-box Source-free Domain Adaptation via Two-stage Knowledge Distillation", *arXiv*, 2023.
 
