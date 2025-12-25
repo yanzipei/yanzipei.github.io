@@ -25,16 +25,14 @@ I am currently a PhD student at Department of Electronic Engineering, The Chines
 Publications
 ======
 
-**Journal articles / letters**
-
 (<sup>\*</sup> indicates equal contributions)
+
+**Journal articles / letters**
 
 - Ting Wang<sup>\*</sup>, <ins>Zipei Yan</ins><sup>1,\*</sup>, Jizhou Li, Xile Zhao, Chao Wang, Michael K-P Ng, "Hyperspectral and Multispectral Image Fusion with Arbitrary Resolution Through Self-Supervised Representations", *International Journal of Computer Vision*, 2025.
 - <ins>Zipei Yan</ins><sup>1</sup>, Qiyu Wang, Xiqian Yu, Jizhou Li, Michael K-P Ng, "Compression of Battery X-Ray Tomography Data with Machine Learning", *Chinese Physics Letters*, 2024.
 
 **Conference proceedings**
-
-(<sup>\*</sup> indicates equal contributions)
 
 - <ins>Zipei Yan</ins><sup>1</sup>, Zhile Liang, Zhengji Liu, Shuai Wang, Rachel Chun, Jizhou Li, Chea-su Kee, Dong Liang, "Generalized Robust Fundus Photography-based Vision Loss Estimation for High Myopia", in *MICCAI*, 2024.
 - Ivo John, <ins>Zipei Yan</ins><sup>2</sup>, Aleksander Bogucki, Michal Swiatek, Hugo Chrost, Michal Wlodarski, Radosław Chrapkiewicz, Jizhou Li, "Unsupervised Stabilization of Smartphone-based Quantitative Pupillometry for Mobile Emergency Medicine", in *ISBI*, 2024.
