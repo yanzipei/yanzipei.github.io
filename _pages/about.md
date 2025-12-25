@@ -25,14 +25,14 @@ I am currently a PhD student at Department of Electronic Engineering, The Chines
 Publications
 ======
 
-Journal articles / letters
+**Journal articles / letters**
 
 (<sup>\*</sup> indicates equal contributions)
 
 - Ting Wang, <ins>Zipei Yan</ins><sup>1,\*</sup>, Jizhou Li, Xile Zhao, Chao Wang, Michael K-P Ng, "Hyperspectral and Multispectral Image Fusion with Arbitrary Resolution Through Self-Supervised Representations", *International Journal of Computer Vision*, 2025.
 - <ins>Zipei Yan</ins><sup>1</sup>, Qiyu Wang, Xiqian Yu, Jizhou Li, Michael K-P Ng, "Compression of Battery X-Ray Tomography Data with Machine Learning", *Chinese Physics Letters*, 2024.
 
-Conference proceedings
+**Conference proceedings**
 
 (<sup>\*</sup> indicates equal contributions)
 
@@ -44,7 +44,7 @@ Conference proceedings
 - Shuai Wang, <ins>Zipei Yan</ins><sup>2</sup>, Daoan Zhang, Haining Wei, Zhongsen Li, Rui Li, "Prototype Knowledge Distillation for Medical Segmentation with Missing Modality", in *ICASSP*, 2023. (Top 3% Recognition)
 - <ins>Zipei Yan</ins><sup>1</sup>, Linchuan Xu, Atsushi Suzuki, Jing Wang, Jiannong Cao, Jun Huang, "RGB Color Model Aware Computational Color Naming and Its Application to Data Augmentation", in *IEEE Big Data*, 2022.
 
-Preprints
+**Preprints**
 <!-- - Ting Wang, <ins>Zipei Yan</ins><sup>1</sup>, Jizhou Li, Xile Zhao, Chao Wang, Michael Ng, "Hyperspectral and Multispectral Image Fusion with Arbitrary Resolution through Self-supervised Representations", *arXiv*, 2024. -->
 - Shuai Wang, <ins>Zipei Yan</ins><sup>2</sup>, Daoan Zhang, Zhongsen Li, Sirui Wu, Wenxuan Chen, Rui Li, "Towards Generalizable Medical Image Segmentation with Pixel-wise Uncertainty Estimation", *arXiv*, 2023.
 - Shuai Wang, Daoan Zhang, <ins>Zipei Yan</ins><sup>3</sup>, Shitong Shao, Rui Li, "Black-box Source-free Domain Adaptation via Two-stage Knowledge Distillation", *arXiv*, 2023.
