@@ -24,7 +24,7 @@ Publications
 ======
 
 Journal articles / letters
-- Ting Wang, <ins>Zipei Yan</ins><sup>1,*</sup>, Jizhou Li, Xile Zhao, Chao Wang, Michael Ng, "Hyperspectral and Multispectral Image Fusion with Arbitrary Resolution Through Self-Supervised Representations", *International Journal of Computer Vision*, 2025.
+- Ting Wang, <ins>Zipei Yan</ins><sup>1</sup><sup>,</sup><sup>*</sup>, Jizhou Li, Xile Zhao, Chao Wang, Michael Ng, "Hyperspectral and Multispectral Image Fusion with Arbitrary Resolution Through Self-Supervised Representations", *International Journal of Computer Vision*, 2025.
 - <ins>Zipei Yan</ins><sup>1</sup>, Qiyu Wang, Xiqian Yu, Jizhou Li, Michael K-P Ng, "Compression of Battery X-Ray Tomography Data with Machine Learning", *Chinese Physics Letters*, 2024.
 
 Conference proceedings
