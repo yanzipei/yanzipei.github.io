@@ -25,10 +25,9 @@ I am currently a PhD student at Department of Electronic Engineering, The Chines
 Publications
 ======
 
-(<sup>\*</sup> indicates equal contributions)
-
 **Journal articles / letters**
 
+- Ting Wang<sup>\*</sup>, <ins>Zipei Yan</ins><sup>1,\*</sup>, Hongyi Pan, Kai Zhang, Michael K-P Ng, Xiqian Yu, Chao Wang, Jizhou Li, "Data-driven Deformation Correction in X-ray Spectro-tomography with Implicit Neural Networks", *Patterns*, 2026.
 - Ting Wang<sup>\*</sup>, <ins>Zipei Yan</ins><sup>1,\*</sup>, Jizhou Li, Xile Zhao, Chao Wang, Michael K-P Ng, "Hyperspectral and Multispectral Image Fusion with Arbitrary Resolution Through Self-Supervised Representations", *International Journal of Computer Vision*, 2025.
 - <ins>Zipei Yan</ins><sup>1</sup>, Qiyu Wang, Xiqian Yu, Jizhou Li, Michael K-P Ng, "Compression of Battery X-Ray Tomography Data with Machine Learning", *Chinese Physics Letters*, 2024.
 
@@ -47,6 +46,7 @@ Publications
 - Shuai Wang, <ins>Zipei Yan</ins><sup>2</sup>, Daoan Zhang, Zhongsen Li, Sirui Wu, Wenxuan Chen, Rui Li, "Towards Generalizable Medical Image Segmentation with Pixel-wise Uncertainty Estimation", *arXiv*, 2023.
 - Shuai Wang, Daoan Zhang, <ins>Zipei Yan</ins><sup>3</sup>, Shitong Shao, Rui Li, "Black-box Source-free Domain Adaptation via Two-stage Knowledge Distillation", *arXiv*, 2023.
 
+(<sup>\*</sup> indicates equal contributions)
 
 Services
 ======
